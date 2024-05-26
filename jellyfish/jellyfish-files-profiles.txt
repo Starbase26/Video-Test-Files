@@ -55,3 +55,6 @@ Filename			Bitrate		Resolution	Codec	Profile	Level	Tier	File Size
 250-mbps-4k-uhd-hevc-10bit.mkv	250 Mbps	3840x2160	HEVC	Main10	6.1	High	914 MB
 300-mbps-4k-uhd-hevc-10bit.mkv	300 Mbps	3840x2160	HEVC	Main10	6.1	High	1.0 GB
 400-mbps-4k-uhd-hevc-10bit.mkv	400 Mbps	3840x2160	HEVC	Main10	6.1	High	1.4 GB
+
+Original files:
+https://repo.jellyfin.org/jellyfish/
